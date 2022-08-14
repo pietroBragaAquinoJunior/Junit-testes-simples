@@ -1,20 +1,4 @@
 INDEX VERSION 1.131+D:\workspace-springtoolsuite\Testes Junit\.metadata\.plugins\org.eclipse.jdt.core
-2837956471.index
-29923634.index
-3883364163.index
-4065709502.index
-3662505028.index
-686229625.index
-2708573779.index
-24100300.index
-2318012007.index
 1865797976.index
-2464057083.index
-352936170.index
-2063599454.index
-2013818224.index
-1544922359.index
-2562018816.index
-3641401891.index
-1506634475.index
 3841185164.index
+1457340401.index
